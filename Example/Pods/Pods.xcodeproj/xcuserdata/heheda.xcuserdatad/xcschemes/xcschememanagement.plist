@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CGTools.xcscheme</key>
+		<key>CGTestTools.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -14,12 +14,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-CGTools_Example.xcscheme</key>
+		<key>Pods-CGTestTools_Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-CGTools_Tests.xcscheme</key>
+		<key>Pods-CGTestTools_Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

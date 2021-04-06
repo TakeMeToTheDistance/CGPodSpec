@@ -1,0 +1,6 @@
+framework module CGTestTools {
+  umbrella header "CGTestTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

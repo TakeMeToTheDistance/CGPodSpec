@@ -1,0 +1,6 @@
+framework module Pods_CGTestTools_Tests {
+  umbrella header "Pods-CGTestTools_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,6 +1,0 @@
-framework module CGTools {
-  umbrella header "CGTools-umbrella.h"
-
-  export *
-  module * { export * }
-}
