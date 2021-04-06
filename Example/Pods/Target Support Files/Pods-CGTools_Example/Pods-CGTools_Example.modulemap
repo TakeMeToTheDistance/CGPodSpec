@@ -1,0 +1,6 @@
+framework module Pods_CGTools_Example {
+  umbrella header "Pods-CGTools_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
